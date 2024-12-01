@@ -1,4 +1,7 @@
 homework2/data/
+homework3/data/
+homework3/runs/
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
+kaggle.json
