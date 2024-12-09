@@ -1,8 +1,11 @@
-homework2/data/
-homework3/data/
-homework4/data/
-homework3/runs/
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
 kaggle.json
+.venv/
+data/
+logs/
+../logs/
+../data/
+../runs/
+../results/
